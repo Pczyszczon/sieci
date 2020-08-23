@@ -1,0 +1,877 @@
+#Autor: Paweł Czyszczoń
+#email: 290425@uwr.edu.pl
+
+1. LIST
+f0:62:81:12:81:40 - ProCurve Networking by HP
+f0:62:81:92:84:80 - ProCurve Networking by HP
+00:0e:84:90:b8:80 - Cisco Systems, Inc
+b0:a8:6e:83:dc:01 - Juniper Networks
+80:71:1f:d3:26:41 - Juniper Networks
+80:71:1f:d3:39:c1 - Juniper Networks
+80:71:1f:de:22:c1 - Juniper Networks
+88:a2:5e:d8:aa:81 - Juniper Networks
+b0:a8:6e:94:1d:c1 - Juniper Networks
+80:71:1f:de:35:81 - Juniper Networks
+80:71:1f:de:1d:81 - Juniper Networks
+80:71:1f:de:1e:81 - Juniper Networks
+f4:a7:39:1b:24:c1 - Juniper Networks
+80:71:1f:de:22:01 - Juniper Networks
+b0:a8:6e:0f:79:41 - Juniper Networks
+88:a2:5e:d8:80:c1 - Juniper Networks
+80:71:1f:de:46:01 - Juniper Networks
+80:71:1f:de:5a:81 - Juniper Networks
+b0:a8:6e:0f:49:41 - Juniper Networks
+74:4d:28:75:5a:48 - Routerboard.com
+74:4d:28:75:6d:66 - Routerboard.com
+80:71:1f:d3:27:81 - Juniper Networks
+b0:a8:6e:81:60:41 - Juniper Networks
+88:e0:f3:71:12:81 - Juniper Networks
+80:71:1f:de:2a:c1 - Juniper Networks
+64:87:88:a7:9b:01 - Juniper Networks
+80:71:1f:d3:28:81 - Juniper Networks
+80:71:1f:d3:24:41 - Juniper Networks
+80:71:1f:de:35:41 - Juniper Networks
+88:a2:5e:d8:7c:01 - Juniper Networks
+74:4d:28:1e:0d:45 - Routerboard.com
+5c:5e:ab:70:90:c1 - Juniper Networks
+88:e0:f3:71:20:81 - Juniper Networks
+88:e0:f3:71:21:41 - Juniper Networks
+3c:8a:b0:e2:53:01 - Juniper Networks
+50:c5:8d:b1:83:c1 - Juniper Networks
+50:c5:8d:b1:db:41 - Juniper Networks
+a8:d0:e5:b4:7b:81 - Juniper Networks
+58:00:bb:26:fb:a0 - Juniper Networks
+2c:6b:f5:3c:af:01 - Juniper Networks
+2c:6b:f5:3c:ad:01 - Juniper Networks
+b0:a8:6e:0f:7c:01 - Juniper Networks
+5c:5e:ab:71:68:81 - Juniper Networks
+b0:a8:6e:81:5c:81 - Juniper Networks
+b0:a8:6e:0e:93:c1 - Juniper Networks
+a8:d0:e5:b4:db:81 - Juniper Networks
+b0:a8:6e:0f:64:c1 - Juniper Networks
+f4:a7:39:ce:13:c1 - Juniper Networks
+b0:a8:6e:81:5b:01 - Juniper Networks
+b0:a8:6e:81:5e:c1 - Juniper Networks
+88:e0:f3:76:3e:81 - Juniper Networks
+b8:69:f4:a6:4a:37 - Routerboard.com
+80:71:1f:d3:3a:c1 - Juniper Networks
+40:b4:f0:66:d8:01 - Juniper Networks
+80:ac:ac:f6:6c:c1 - Juniper Networks
+f4:a7:39:1b:05:01 - Juniper Networks
+80:71:1f:de:5d:01 - Juniper Networks
+5c:45:27:3f:1a:c1 - Juniper Networks
+00:20:85:fd:d5:ea - Eaton Corporation
+00:c0:b7:d5:f7:32 - AMERICAN POWER CONVERSION CORP
+00:c0:b7:ca:3b:bb - AMERICAN POWER CONVERSION CORP
+00:c0:b7:ca:3c:82 - AMERICAN POWER CONVERSION CORP
+00:50:56:a9:5b:ae - VMware, Inc.
+00:18:7d:25:0f:dc - Armorlink Co .Ltd
+00:18:7d:8d:39:57 - Armorlink Co .Ltd
+e4:1f:13:4b:d4:72 - IBM Corp
+e4:1f:13:4b:d4:72 - IBM Corp
+e4:1f:13:4b:d4:72 - IBM Corp
+e4:1f:13:4b:d4:72 - IBM Corp
+e4:1f:13:4b:d4:72 - IBM Corp
+00:e0:ec:43:2a:9b - CELESTICA INC.
+00:e0:ec:7f:19:1c - CELESTICA INC.
+00:e0:ec:43:2a:9b - CELESTICA INC.
+00:e0:ec:43:2a:9b - CELESTICA INC.
+e4:1f:13:4b:d4:72 - IBM Corp
+00:25:90:f0:88:be - Super Micro Computer, Inc.
+00:e0:ec:7f:19:1c - CELESTICA INC.
+00:e0:ec:7f:19:1c - CELESTICA INC.
+5c:f3:fc:f6:a3:60 - IBM Corp
+e4:1f:13:75:1f:88 - IBM Corp
+e4:1f:13:76:cd:5d - IBM Corp
+e4:1f:13:76:cd:5d - IBM Corp
+98:be:94:31:ff:c8 - IBM
+98:be:94:31:ff:c8 - IBM
+88:94:71:7a:1e:98 - Brocade Communications Systems LLC
+88:94:71:7a:1d:98 - Brocade Communications Systems LLC
+e4:1f:13:75:1f:88 - IBM Corp
+5c:f3:fc:f6:a3:60 - IBM Corp
+24:5e:be:38:eb:51 - QNAP Systems, Inc.
+24:5e:be:38:7c:a2 - QNAP Systems, Inc.
+08:94:ef:4d:cb:94 - Wistron Infocomm (Zhongshan) Corporation
+08:94:ef:4d:cb:f0 - Wistron Infocomm (Zhongshan) Corporation
+08:94:ef:4d:cc:4c - Wistron Infocomm (Zhongshan) Corporation
+08:94:ef:46:59:c0 - Wistron Infocomm (Zhongshan) Corporation
+38:68:dd:13:09:f4 - INVENTEC CORPORATION
+38:68:dd:14:e9:6c - INVENTEC CORPORATION
+38:68:dd:14:ee:ec - INVENTEC CORPORATION
+38:68:dd:14:e7:d4 - INVENTEC CORPORATION
+38:68:dd:13:0c:6c - INVENTEC CORPORATION
+38:68:dd:14:eb:b4 - INVENTEC CORPORATION
+38:68:dd:11:e5:bd - INVENTEC CORPORATION
+38:68:dd:14:ea:d5 - INVENTEC CORPORATION
+38:68:dd:13:09:b5 - INVENTEC CORPORATION
+38:68:dd:14:e9:75 - INVENTEC CORPORATION
+00:0c:29:46:86:4d - VMware, Inc.
+00:0c:29:94:ba:42 - VMware, Inc.
+34:40:b5:e5:10:92 - IBM
+e4:1f:13:7b:b4:bc - IBM Corp
+e4:1f:13:7b:b1:84 - IBM Corp
+34:40:b5:e4:fc:52 - IBM
+34:40:b5:81:78:6e - IBM
+34:40:b5:e2:b1:d0 - IBM
+34:40:b5:81:73:f8 - IBM
+34:40:b5:c5:c6:e8 - IBM
+34:40:b5:c4:8d:90 - IBM
+34:40:b5:c5:db:48 - IBM
+34:40:b5:e2:8c:00 - IBM
+34:40:b5:c5:c5:a8 - IBM
+34:40:b5:e5:37:02 - IBM
+00:90:fa:67:10:3e - Emulex Corporation
+00:90:fa:67:0d:28 - Emulex Corporation
+00:90:fa:67:06:26 - Emulex Corporation
+00:90:fa:67:04:ee - Emulex Corporation
+00:90:fa:f6:ff:5a - Emulex Corporation
+00:90:fa:f3:c5:7e - Emulex Corporation
+00:90:fa:f3:c5:6e - Emulex Corporation
+00:90:fa:f6:fe:7a - Emulex Corporation
+e4:1f:13:7b:3b:44 - IBM Corp
+00:10:9b:8b:24:d0 - Emulex Corporation
+00:10:9b:8b:1d:a0 - Emulex Corporation
+00:10:9b:8b:24:b0 - Emulex Corporation
+00:10:9b:8b:1a:00 - Emulex Corporation
+00:10:9b:8b:1c:50 - Emulex Corporation
+00:10:9b:8b:1c:e0 - Emulex Corporation
+00:10:9b:8b:24:c4 - Emulex Corporation
+00:10:9b:8b:1e:b0 - Emulex Corporation
+00:10:9b:8b:24:e0 - Emulex Corporation
+00:10:9b:8b:24:f0 - Emulex Corporation
+40:16:7e:e9:19:72 - ASUSTek COMPUTER INC.
+00:50:56:a9:32:36 - VMware, Inc.
+24:5e:be:36:1b:d2 - QNAP Systems, Inc.
+24:5e:be:38:06:66 - QNAP Systems, Inc.
+00:50:56:a9:60:05 - VMware, Inc.
+00:0b:dc:00:06:7c - AKCP
+00:e0:d8:1c:f0:a5 - LANBit Computer, Inc.
+00:e0:d8:1c:93:40 - LANBit Computer, Inc.
+00:e0:d8:1c:fd:04 - LANBit Computer, Inc.
+00:19:ba:01:e5:3d - Paradox Security Systems Ltd
+00:16:18:77:3a:a4 - HIVION Co., Ltd.
+00:16:18:77:44:df - HIVION Co., Ltd.
+00:16:18:77:3a:85 - HIVION Co., Ltd.
+00:16:18:77:3a:71 - HIVION Co., Ltd.
+00:16:18:77:43:db - HIVION Co., Ltd.
+00:16:18:77:3a:fe - HIVION Co., Ltd.
+00:16:18:77:3a:f4 - HIVION Co., Ltd.
+00:16:18:77:43:c0 - HIVION Co., Ltd.
+00:16:18:77:44:a7 - HIVION Co., Ltd.
+00:0d:f1:20:0e:82 - IONIX INC.
+00:0d:f1:20:0e:7b - IONIX INC.
+00:0d:f1:20:0e:69 - IONIX INC.
+00:0d:f1:20:75:31 - IONIX INC.
+00:0d:f1:20:0e:79 - IONIX INC.
+00:0d:f1:20:0e:7c - IONIX INC.
+00:0d:f1:20:0e:7a - IONIX INC.
+00:16:18:77:3b:66 - HIVION Co., Ltd.
+00:16:18:77:3b:18 - HIVION Co., Ltd.
+08:66:1f:01:c6:8e - Palo Alto Networks
+08:66:1f:01:f6:a1 - Palo Alto Networks
+b4:0c:25:e0:40:15 - Palo Alto Networks
+ec:3e:f7:e1:8e:30 - Juniper Networks
+ac:4b:c8:71:f6:30 - Juniper Networks
+ec:3e:f7:e1:8d:01 - Juniper Networks
+00:50:56:a9:75:bc - VMware, Inc.
+00:50:56:a9:5e:74 - VMware, Inc.
+00:18:7d:8d:39:55 - Armorlink Co .Ltd
+00:50:56:a9:b6:6d - VMware, Inc.
+00:50:56:a9:52:77 - VMware, Inc.
+00:50:56:a9:14:b6 - VMware, Inc.
+00:50:56:a9:37:03 - VMware, Inc.
+00:18:7d:25:0f:da - Armorlink Co .Ltd
+00:50:56:a9:00:35 - VMware, Inc.
+00:18:7d:25:0f:da - Armorlink Co .Ltd
+00:50:56:a9:77:cb - VMware, Inc.
+00:18:7d:25:0f:da - Armorlink Co .Ltd
+00:50:56:a9:29:92 - VMware, Inc.
+00:50:56:a9:5a:5e - VMware, Inc.
+00:50:56:a9:05:68 - VMware, Inc.
+b0:a8:6e:94:1d:c1 - Juniper Networks
+00:1b:9d:0b:73:35 - Novus Security Sp. z o.o.
+18:d6:c7:00:e4:58 - TP-LINK TECHNOLOGIES CO.,LTD.
+00:e0:4c:1e:c9:49 - REALTEK SEMICONDUCTOR CORP.
+68:05:ca:3a:49:35 - Intel Corporate
+00:e0:4c:1e:c9:4a - REALTEK SEMICONDUCTOR CORP.
+68:05:ca:3b:dd:24 - Intel Corporate
+3c:8a:b0:e2:53:01 - Juniper Networks
+00:40:9d:74:25:54 - DigiBoard
+e8:de:27:a8:de:b5 - TP-LINK TECHNOLOGIES CO.,LTD.
+64:70:02:11:a8:2c - TP-LINK TECHNOLOGIES CO.,LTD.
+5c:5e:ab:70:90:c1 - Juniper Networks
+00:50:56:a9:3b:eb - VMware, Inc.
+00:50:56:a9:77:b4 - VMware, Inc.
+00:50:56:a9:74:f8 - VMware, Inc.
+00:50:56:a9:3c:15 - VMware, Inc.
+00:50:56:a9:51:f2 - VMware, Inc.
+00:50:56:a9:4c:85 - VMware, Inc.
+00:50:56:a9:4a:4e - VMware, Inc.
+00:50:56:a9:c2:7c - VMware, Inc.
+00:50:56:a9:da:42 - VMware, Inc.
+00:50:56:a9:a4:bc - VMware, Inc.
+00:50:56:a9:d7:06 - VMware, Inc.
+00:50:56:a9:5b:23 - VMware, Inc.
+00:50:56:a9:57:36 - VMware, Inc.
+00:50:56:a9:2e:5d - VMware, Inc.
+00:50:56:a9:68:66 - VMware, Inc.
+00:50:56:a9:a4:08 - VMware, Inc.
+00:50:56:a9:c9:17 - VMware, Inc.
+00:50:56:a9:4e:76 - VMware, Inc.
+00:50:56:a9:4a:36 - VMware, Inc.
+00:50:56:a9:02:84 - VMware, Inc.
+00:50:56:a9:d3:de - VMware, Inc.
+00:50:56:a9:82:4b - VMware, Inc.
+00:50:56:a9:2c:c8 - VMware, Inc.
+00:50:56:a9:01:aa - VMware, Inc.
+00:50:56:a9:ac:3a - VMware, Inc.
+00:50:56:a9:0c:a2 - VMware, Inc.
+00:50:56:a9:78:5f - VMware, Inc.
+00:50:56:a9:0d:7e - VMware, Inc.
+00:50:56:a9:6e:a0 - VMware, Inc.
+00:50:56:a9:0d:e2 - VMware, Inc.
+00:50:56:a9:20:d5 - VMware, Inc.
+00:50:56:a9:4b:ee - VMware, Inc.
+00:50:56:a9:78:9e - VMware, Inc.
+00:50:56:a9:31:03 - VMware, Inc.
+00:50:56:a9:58:b2 - VMware, Inc.
+00:50:56:a9:42:8a - VMware, Inc.
+00:50:56:a9:31:5b - VMware, Inc.
+00:50:56:a9:51:2d - VMware, Inc.
+00:50:56:a9:16:fb - VMware, Inc.
+00:50:56:a9:4f:45 - VMware, Inc.
+00:50:56:a9:1f:cc - VMware, Inc.
+00:50:56:a9:54:82 - VMware, Inc.
+00:50:56:a9:1c:49 - VMware, Inc.
+00:50:56:a9:76:55 - VMware, Inc.
+00:50:56:a9:2a:ee - VMware, Inc.
+00:50:56:a9:96:85 - VMware, Inc.
+00:50:56:a9:94:35 - VMware, Inc.
+00:50:56:a9:ec:66 - VMware, Inc.
+00:50:56:a9:22:13 - VMware, Inc.
+00:50:56:a9:70:9d - VMware, Inc.
+00:50:56:a9:b8:44 - VMware, Inc.
+00:50:56:a9:3a:2a - VMware, Inc.
+00:50:56:a9:e7:02 - VMware, Inc.
+00:50:56:a9:f6:f9 - VMware, Inc.
+00:50:56:a9:12:84 - VMware, Inc.
+00:50:56:a9:ec:f6 - VMware, Inc.
+00:50:56:a9:3e:4e - VMware, Inc.
+00:50:56:a9:67:16 - VMware, Inc.
+00:50:56:a9:c1:16 - VMware, Inc.
+00:50:56:a9:8e:d2 - VMware, Inc.
+00:50:56:a9:e5:5d - VMware, Inc.
+00:50:56:a9:11:e0 - VMware, Inc.
+00:50:56:a9:99:ff - VMware, Inc.
+00:50:56:a9:28:e4 - VMware, Inc.
+00:50:56:a9:8a:d2 - VMware, Inc.
+00:50:56:a9:7b:d9 - VMware, Inc.
+00:50:56:a9:bf:3e - VMware, Inc.
+00:50:56:a9:41:de - VMware, Inc.
+00:50:56:a9:f0:3b - VMware, Inc.
+00:50:56:a9:76:e7 - VMware, Inc.
+00:50:56:a9:02:c0 - VMware, Inc.
+00:50:56:a9:4e:93 - VMware, Inc.
+00:50:56:a9:5e:b5 - VMware, Inc.
+00:50:56:a9:19:9b - VMware, Inc.
+00:50:56:a9:78:94 - VMware, Inc.
+00:50:56:a9:62:b4 - VMware, Inc.
+00:50:56:a9:68:7a - VMware, Inc.
+00:50:56:a9:16:55 - VMware, Inc.
+00:18:4d:50:36:7c - NETGEAR
+94:de:80:7f:bb:be - GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:50:56:a9:05:95 - VMware, Inc.
+94:de:80:7f:d3:2a - GIGA-BYTE TECHNOLOGY CO.,LTD.
+02:b4:91:00:08:0b - {"errors":{"detail":"Not Found"}}
+00:50:56:a9:6f:78 - VMware, Inc.
+00:50:56:a9:67:3f - VMware, Inc.
+00:50:56:a9:19:0b - VMware, Inc.
+00:50:56:a9:6a:97 - VMware, Inc.
+00:50:56:a9:bc:a0 - VMware, Inc.
+00:50:56:a9:95:f9 - VMware, Inc.
+00:50:56:a9:f0:b3 - VMware, Inc.
+90:2b:34:33:ec:42 - GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:50:56:a9:10:67 - VMware, Inc.
+00:50:56:a9:bc:ee - VMware, Inc.
+00:50:56:a9:33:ad - VMware, Inc.
+00:50:56:a9:58:1d - VMware, Inc.
+00:50:56:a9:03:f5 - VMware, Inc.
+00:0c:29:f8:88:bc - VMware, Inc.
+00:50:56:a9:4c:0b - VMware, Inc.
+00:50:56:a9:02:de - VMware, Inc.
+00:50:56:a9:22:fe - VMware, Inc.
+00:50:56:a9:22:fe - VMware, Inc.
+00:50:56:a9:66:22 - VMware, Inc.
+00:50:56:a9:77:0f - VMware, Inc.
+00:50:56:a9:33:b4 - VMware, Inc.
+00:50:56:a9:94:0a - VMware, Inc.
+00:50:56:a9:53:e2 - VMware, Inc.
+00:50:56:a9:43:de - VMware, Inc.
+03:bf:c0:a8:1d:0c - {"errors":{"detail":"Not Found"}}
+00:50:56:a9:50:fc - VMware, Inc.
+00:50:56:a9:23:71 - VMware, Inc.
+00:50:56:a9:64:3f - VMware, Inc.
+00:50:56:a9:05:fe - VMware, Inc.
+00:50:56:a9:92:32 - VMware, Inc.
+00:50:56:a9:37:df - VMware, Inc.
+00:50:56:a9:2e:cc - VMware, Inc.
+00:50:56:a9:6a:ad - VMware, Inc.
+00:50:56:a9:7d:05 - VMware, Inc.
+00:50:56:a9:24:95 - VMware, Inc.
+00:50:56:a9:7b:c3 - VMware, Inc.
+00:50:56:a9:66:48 - VMware, Inc.
+00:50:56:a9:c1:26 - VMware, Inc.
+00:50:56:a9:04:c7 - VMware, Inc.
+00:50:56:a9:59:e9 - VMware, Inc.
+00:50:56:a9:4f:de - VMware, Inc.
+00:50:56:a9:3c:dc - VMware, Inc.
+00:50:56:a9:47:d2 - VMware, Inc.
+00:50:56:a9:1d:d7 - VMware, Inc.
+00:50:56:a9:1a:91 - VMware, Inc.
+00:50:56:a9:4c:31 - VMware, Inc.
+00:50:56:a9:17:b8 - VMware, Inc.
+00:50:56:a9:5e:be - VMware, Inc.
+00:50:56:a9:3a:52 - VMware, Inc.
+00:50:56:a9:d9:f3 - VMware, Inc.
+00:50:56:a9:60:66 - VMware, Inc.
+00:50:56:a9:34:8c - VMware, Inc.
+00:50:56:a9:ad:68 - VMware, Inc.
+00:50:56:a9:dc:29 - VMware, Inc.
+00:50:56:a9:2b:70 - VMware, Inc.
+00:50:56:a9:a3:1f - VMware, Inc.
+00:50:56:a9:f2:df - VMware, Inc.
+00:50:56:a9:7c:42 - VMware, Inc.
+00:50:56:a9:da:97 - VMware, Inc.
+00:50:56:a9:48:19 - VMware, Inc.
+00:50:56:a9:f5:34 - VMware, Inc.
+00:50:56:a9:52:b8 - VMware, Inc.
+00:50:56:a9:03:95 - VMware, Inc.
+00:50:56:a9:da:71 - VMware, Inc.
+00:50:56:a9:2e:60 - VMware, Inc.
+00:50:56:a9:27:ac - VMware, Inc.
+00:50:56:a9:15:5e - VMware, Inc.
+00:50:56:a9:31:ae - VMware, Inc.
+00:50:56:a9:c8:8c - VMware, Inc.
+00:50:56:a9:fa:16 - VMware, Inc.
+00:50:56:a9:68:a3 - VMware, Inc.
+00:50:56:a9:2c:01 - VMware, Inc.
+00:50:56:a9:37:90 - VMware, Inc.
+00:50:56:a9:04:83 - VMware, Inc.
+00:50:56:a9:4c:25 - VMware, Inc.
+00:50:56:a9:27:c3 - VMware, Inc.
+00:50:56:a9:77:43 - VMware, Inc.
+00:50:56:a9:50:1c - VMware, Inc.
+03:bf:c0:a8:1e:0a - {"errors":{"detail":"Not Found"}}
+00:50:56:a9:34:bd - VMware, Inc.
+00:50:56:a9:1b:38 - VMware, Inc.
+00:50:56:a9:5e:97 - VMware, Inc.
+00:50:56:a9:59:58 - VMware, Inc.
+00:50:56:a9:12:5c - VMware, Inc.
+00:50:56:a9:4e:22 - VMware, Inc.
+00:50:56:a9:95:58 - VMware, Inc.
+00:50:56:a9:7e:be - VMware, Inc.
+00:50:56:a9:38:52 - VMware, Inc.
+00:50:56:a9:18:30 - VMware, Inc.
+00:50:56:a9:24:22 - VMware, Inc.
+00:50:56:a9:52:8f - VMware, Inc.
+00:50:56:a9:68:ca - VMware, Inc.
+00:50:56:a9:79:5f - VMware, Inc.
+00:50:56:a9:45:b5 - VMware, Inc.
+00:50:56:a9:4c:24 - VMware, Inc.
+00:50:56:a9:4b:dd - VMware, Inc.
+00:50:56:a9:55:bc - VMware, Inc.
+00:50:56:a9:2f:53 - VMware, Inc.
+00:50:56:a9:8a:57 - VMware, Inc.
+00:50:56:a9:72:a6 - VMware, Inc.
+00:50:56:a9:2b:9c - VMware, Inc.
+00:50:56:a9:4b:c1 - VMware, Inc.
+00:50:56:a9:46:61 - VMware, Inc.
+44:07:0b:78:04:ee - Google, Inc.
+00:0c:42:74:3e:26 - Routerboard.com
+d4:3d:7e:f3:81:52 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:80:f8 - Micro-Star Int'l Co, Ltd
+ac:fd:ce:90:2b:3a - Intel Corporate
+b8:6b:23:8f:d5:b6 - Toshiba
+00:c2:c6:0e:c8:bf - Intel Corporate
+7c:03:ab:29:68:f9 - Xiaomi Communications Co Ltd
+e4:e7:49:85:6c:93 - Hewlett Packard
+04:d9:f5:1f:18:27 - ASUSTek COMPUTER INC.
+d0:37:45:5e:d7:6f - TP-LINK TECHNOLOGIES CO.,LTD.
+10:b3:d5:69:53:25 - Cisco Systems, Inc
+b8:6b:23:8f:d5:b6 - Toshiba
+00:90:0b:2c:fc:eb - LANNER ELECTRONICS, INC.
+00:20:6b:97:64:d1 - KONICA MINOLTA HOLDINGS, INC.
+00:90:0b:2c:fc:eb - LANNER ELECTRONICS, INC.
+d4:3d:7e:f3:81:af - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:81:f5 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:7a:c4 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:7a:aa - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:7a:c7 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:81:e7 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:81:4b - Micro-Star Int'l Co, Ltd
+d8:cb:8a:ea:ae:66 - Micro-Star INTL CO., LTD.
+00:25:36:e1:dd:9b - Oki Electric Industry Co., Ltd.
+00:80:87:5b:73:46 - OKI ELECTRIC INDUSTRY CO., LTD
+1c:c1:de:84:f9:f4 - Hewlett Packard
+b0:5a:da:c2:f1:10 - Hewlett Packard
+00:90:0b:2c:fc:eb - LANNER ELECTRONICS, INC.
+fc:3f:db:52:9c:8b - Hewlett Packard
+00:25:36:66:17:f5 - Oki Electric Industry Co., Ltd.
+d4:3d:7e:f3:7a:88 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:7a:71 - Micro-Star Int'l Co, Ltd
+30:cd:a7:64:24:22 - Samsung Electronics Co.,Ltd
+4c:cc:6a:05:25:0b - Micro-Star INTL CO., LTD.
+f4:4d:30:50:31:64 - Elitegroup Computer Systems Co.,Ltd.
+f8:32:e4:8b:bf:a7 - ASUSTek COMPUTER INC.
+00:c0:ee:bb:30:3c - KYOCERA Display Corporation
+00:20:6b:66:06:fb - KONICA MINOLTA HOLDINGS, INC.
+00:90:0b:2c:fc:eb - LANNER ELECTRONICS, INC.
+1c:6f:65:60:72:3c - GIGA-BYTE TECHNOLOGY CO.,LTD.
+d4:3d:7e:f3:7a:35 - Micro-Star Int'l Co, Ltd
+40:16:7e:b0:84:17 - ASUSTek COMPUTER INC.
+70:85:c2:47:06:c6 - ASRock Incorporation
+70:85:c2:47:38:a0 - ASRock Incorporation
+00:25:b3:f8:f3:03 - Hewlett Packard
+f4:4d:30:51:b5:18 - Elitegroup Computer Systems Co.,Ltd.
+a0:1d:48:ad:8c:fd - Hewlett Packard
+78:0c:b8:2e:d4:d4 - Intel Corporate
+f4:4d:30:51:b4:f4 - Elitegroup Computer Systems Co.,Ltd.
+74:c6:3b:c2:3b:8f - AzureWave Technology Inc.
+ee:d3:0f:10:fa:c8 - {"errors":{"detail":"Not Found"}}
+24:2e:02:aa:51:2f - HUAWEI TECHNOLOGIES CO.,LTD
+00:17:c8:63:22:43 - KYOCERA Display Corporation
+00:90:0b:2c:fc:eb - LANNER ELECTRONICS, INC.
+b0:5a:da:c2:e1:fb - Hewlett Packard
+30:05:5c:1b:25:27 - Brother industries, LTD.
+00:20:6b:6b:29:26 - KONICA MINOLTA HOLDINGS, INC.
+4c:cc:6a:01:26:09 - Micro-Star INTL CO., LTD.
+4c:cc:6a:01:27:91 - Micro-Star INTL CO., LTD.
+70:85:c2:49:b6:4a - ASRock Incorporation
+70:85:c2:49:b4:dc - ASRock Incorporation
+4c:cc:6a:01:27:e1 - Micro-Star INTL CO., LTD.
+4c:cc:6a:01:26:05 - Micro-Star INTL CO., LTD.
+4c:cc:6a:01:29:49 - Micro-Star INTL CO., LTD.
+4c:cc:6a:01:26:0e - Micro-Star INTL CO., LTD.
+4c:cc:6a:01:29:4b - Micro-Star INTL CO., LTD.
+70:85:c2:49:b6:46 - ASRock Incorporation
+70:85:c2:49:b5:7e - ASRock Incorporation
+18:a6:f7:fc:6c:c8 - TP-LINK TECHNOLOGIES CO.,LTD.
+00:22:64:0c:f4:ec - Hewlett Packard
+0c:9d:92:0e:ec:9b - ASUSTek COMPUTER INC.
+0c:9d:92:0e:ec:94 - ASUSTek COMPUTER INC.
+b0:0c:d1:39:5d:d1 - Hewlett Packard
+00:21:b7:bb:0d:f2 - LEXMARK INTERNATIONAL, INC.
+e8:39:35:93:12:a7 - Hewlett Packard
+88:87:17:57:20:19 - CANON INC.
+48:ba:4e:35:1b:80 - Hewlett Packard
+88:51:fb:ea:5d:77 - Hewlett Packard
+60:02:92:4e:33:88 - PEGATRON CORPORATION
+b8:ee:65:7b:50:32 - Liteon Technology Corporation
+3c:f8:62:e7:ad:74 - Intel Corporate
+d4:81:d7:d2:68:b0 - Dell Inc.
+80:ce:62:e8:e0:1d - Hewlett Packard
+54:ee:75:76:01:4b - Wistron InfoComm(Kunshan)Co.,Ltd.
+70:85:c2:40:c5:41 - ASRock Incorporation
+d4:3d:7e:f3:7a:59 - Micro-Star Int'l Co, Ltd
+f8:75:a4:03:59:df - LCFC(HeFei) Electronics Technology co., ltd
+98:40:bb:32:6d:24 - Dell Inc.
+6c:c2:17:26:19:49 - Hewlett Packard
+d0:50:99:53:25:fb - ASRock Incorporation
+50:3e:aa:cf:5f:77 - TP-LINK TECHNOLOGIES CO.,LTD.
+00:25:22:f9:be:6a - ASRock Incorporation
+d0:50:99:53:25:a5 - ASRock Incorporation
+00:80:87:7b:54:af - OKI ELECTRIC INDUSTRY CO., LTD
+00:21:b7:23:63:e3 - LEXMARK INTERNATIONAL, INC.
+00:c0:ee:3d:18:af - KYOCERA Display Corporation
+bc:5f:f4:d7:6f:df - ASRock Incorporation
+30:9c:23:df:78:f5 - Micro-Star INTL CO., LTD.
+18:60:24:cb:2f:dd - Hewlett Packard
+34:64:a9:69:7b:09 - Hewlett Packard
+30:9c:23:df:78:3d - Micro-Star INTL CO., LTD.
+bc:5f:f4:cf:35:dd - ASRock Incorporation
+f4:4d:30:1e:d9:9c - Elitegroup Computer Systems Co.,Ltd.
+4c:cc:6a:01:25:0b - Micro-Star INTL CO., LTD.
+74:86:7a:1a:48:20 - Dell Inc.
+30:85:a9:f2:de:43 - ASUSTek COMPUTER INC.
+00:c0:ee:78:df:5d - KYOCERA Display Corporation
+3c:4a:92:c2:4a:ef - Hewlett Packard
+00:80:91:74:f9:79 - TOKYO ELECTRIC CO.,LTD
+00:23:24:5f:32:7f - G-PRO COMPUTER
+00:23:24:5f:33:41 - G-PRO COMPUTER
+fc:3f:db:4d:e8:a8 - Hewlett Packard
+00:25:36:a1:a5:dd - Oki Electric Industry Co., Ltd.
+00:20:6b:9e:71:fd - KONICA MINOLTA HOLDINGS, INC.
+00:20:6b:9e:5e:81 - KONICA MINOLTA HOLDINGS, INC.
+00:25:36:a1:a5:1b - Oki Electric Industry Co., Ltd.
+00:25:36:a1:a5:7d - Oki Electric Industry Co., Ltd.
+00:25:36:31:9d:36 - Oki Electric Industry Co., Ltd.
+a0:48:1c:67:0e:e3 - Hewlett Packard
+90:2b:34:5a:36:c2 - GIGA-BYTE TECHNOLOGY CO.,LTD.
+50:46:5d:cf:b5:0c - ASUSTek COMPUTER INC.
+70:85:c2:47:3a:10 - ASRock Incorporation
+bc:5f:f4:d8:51:3c - ASRock Incorporation
+54:04:a6:eb:15:86 - ASUSTek COMPUTER INC.
+bc:5f:f4:d8:62:e5 - ASRock Incorporation
+f4:8e:38:97:89:83 - Dell Inc.
+d0:37:45:5f:33:de - TP-LINK TECHNOLOGIES CO.,LTD.
+b0:0c:d1:58:b1:ec - Hewlett Packard
+3c:cd:93:ba:0a:af - LG ELECTRONICS INC
+70:85:c2:47:06:cc - ASRock Incorporation
+00:20:6b:6c:06:4c - KONICA MINOLTA HOLDINGS, INC.
+00:26:73:df:53:84 - RICOH COMPANY,LTD.
+08:00:23:a1:66:b6 - Panasonic Communications Co., Ltd.
+00:17:c8:21:8d:fe - KYOCERA Display Corporation
+00:26:ab:b1:ad:1a - Seiko Epson Corporation
+00:17:c8:62:e1:f3 - KYOCERA Display Corporation
+20:16:d8:81:a8:a9 - Liteon Technology Corporation
+00:90:0b:2c:fc:eb - LANNER ELECTRONICS, INC.
+00:25:b3:fa:df:26 - Hewlett Packard
+70:85:c2:49:b2:a9 - ASRock Incorporation
+00:21:b7:f3:d9:cc - LEXMARK INTERNATIONAL, INC.
+00:c0:ee:2e:7a:8f - KYOCERA Display Corporation
+b0:48:7a:92:08:0a - TP-LINK TECHNOLOGIES CO.,LTD.
+9c:93:4e:a5:bc:ab - Xerox Corporation
+f4:4d:30:51:b5:87 - Elitegroup Computer Systems Co.,Ltd.
+00:25:22:5f:69:f8 - ASRock Incorporation
+f4:4d:30:51:cb:a4 - Elitegroup Computer Systems Co.,Ltd.
+d8:cb:8a:e6:b3:ce - Micro-Star INTL CO., LTD.
+00:25:22:5f:6a:81 - ASRock Incorporation
+70:85:c2:53:84:1a - ASRock Incorporation
+4c:ed:fb:6c:fc:13 - ASUSTek COMPUTER INC.
+1c:1b:0d:a0:49:6a - GIGA-BYTE TECHNOLOGY CO.,LTD.
+04:d9:f5:1f:15:3f - ASUSTek COMPUTER INC.
+f4:4d:30:51:b4:dc - Elitegroup Computer Systems Co.,Ltd.
+b0:e5:ed:8e:4f:9c - HUAWEI TECHNOLOGIES CO.,LTD
+24:18:1d:c6:f7:45 - SAMSUNG ELECTRO-MECHANICS(THAILAND)
+10:bf:48:8b:6a:ca - ASUSTek COMPUTER INC.
+58:38:79:07:40:ee - RICOH COMPANY, LTD.
+18:0c:ac:e9:00:6f - CANON INC.
+00:11:32:61:2f:f5 - Synology Incorporated
+00:00:85:a2:d6:44 - CANON INC.
+38:63:bb:06:f9:98 - Hewlett Packard
+00:24:1d:06:3f:f4 - GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:17:c8:66:e3:f4 - KYOCERA Display Corporation
+f4:4d:30:51:cb:da - Elitegroup Computer Systems Co.,Ltd.
+d0:50:99:53:25:ae - ASRock Incorporation
+00:20:6b:8e:17:ed - KONICA MINOLTA HOLDINGS, INC.
+10:60:4b:16:2a:c9 - Hewlett Packard
+00:15:99:c8:c8:af - Samsung Electronics Co.,Ltd
+f4:4d:30:51:b4:e0 - Elitegroup Computer Systems Co.,Ltd.
+f4:4d:30:51:b4:de - Elitegroup Computer Systems Co.,Ltd.
+70:85:c2:49:b2:54 - ASRock Incorporation
+1c:6f:65:72:0e:4a - GIGA-BYTE TECHNOLOGY CO.,LTD.
+d8:cb:8a:e6:b3:d2 - Micro-Star INTL CO., LTD.
+d8:cb:8a:e6:b7:ba - Micro-Star INTL CO., LTD.
+70:85:c2:4e:49:d2 - ASRock Incorporation
+70:85:c2:4a:4d:63 - ASRock Incorporation
+d0:50:99:23:a5:8f - ASRock Incorporation
+70:85:c2:4e:48:03 - ASRock Incorporation
+70:85:c2:4a:4d:71 - ASRock Incorporation
+84:25:19:97:0e:c4 - Samsung Electronics
+00:15:99:48:54:d5 - Samsung Electronics Co.,Ltd
+08:00:23:13:6a:9f - Panasonic Communications Co., Ltd.
+9c:93:4e:13:e0:61 - Xerox Corporation
+28:80:23:12:67:84 - Hewlett Packard
+64:00:6a:69:75:da - Dell Inc.
+30:9c:23:df:78:4a - Micro-Star INTL CO., LTD.
+64:00:6a:69:75:d6 - Dell Inc.
+64:00:6a:62:77:67 - Dell Inc.
+d0:50:99:30:d8:fc - ASRock Incorporation
+00:07:4d:92:1e:78 - Zebra Technologies Corp.
+00:07:4d:92:23:16 - Zebra Technologies Corp.
+84:25:19:09:2a:67 - Samsung Electronics
+04:d4:c4:58:61:7a - ASUSTek COMPUTER INC.
+04:d4:c4:58:64:68 - ASUSTek COMPUTER INC.
+90:2b:34:33:fe:c2 - GIGA-BYTE TECHNOLOGY CO.,LTD.
+4c:cc:6a:01:28:d2 - Micro-Star INTL CO., LTD.
+00:25:22:5c:4a:71 - ASRock Incorporation
+d8:cb:8a:e6:b8:4a - Micro-Star INTL CO., LTD.
+70:85:c2:49:b6:54 - ASRock Incorporation
+f8:b4:6a:0d:fc:15 - Hewlett Packard
+48:ba:4e:35:1b:7d - Hewlett Packard
+9c:93:4e:94:49:4e - Xerox Corporation
+00:00:48:0e:ad:4a - Seiko Epson Corporation
+4c:cc:6a:01:26:1d - Micro-Star INTL CO., LTD.
+90:2b:34:97:26:fa - GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:12:2a:ed:dd:e0 - VTech Telecommunications Ltd.
+3c:2a:f4:b1:1f:10 - Brother Industries, LTD.
+bc:5f:f4:e6:a3:0c - ASRock Incorporation
+f4:4d:30:51:cb:e3 - Elitegroup Computer Systems Co.,Ltd.
+00:25:22:b3:ae:d3 - ASRock Incorporation
+bc:5f:f4:e8:58:62 - ASRock Incorporation
+70:85:c2:49:b2:1c - ASRock Incorporation
+00:80:87:5b:40:5e - OKI ELECTRIC INDUSTRY CO., LTD
+64:31:50:24:9d:5b - Hewlett Packard
+64:31:50:24:9f:29 - Hewlett Packard
+00:25:22:5f:6a:36 - ASRock Incorporation
+d4:3d:7e:f3:7a:f9 - Micro-Star Int'l Co, Ltd
+48:ba:4e:35:1b:7f - Hewlett Packard
+94:57:a5:b3:13:2a - Hewlett Packard
+70:85:c2:47:02:ff - ASRock Incorporation
+a0:f3:c1:e6:d0:59 - TP-LINK TECHNOLOGIES CO.,LTD.
+1c:98:ec:47:21:c0 - Hewlett Packard Enterprise
+70:85:c2:47:38:58 - ASRock Incorporation
+d4:3d:7e:f3:7a:8b - Micro-Star Int'l Co, Ltd
+70:85:c2:47:06:fb - ASRock Incorporation
+b4:b6:86:2c:76:0a - Hewlett Packard
+00:17:c8:25:d5:ed - KYOCERA Display Corporation
+f4:39:09:b9:af:36 - Hewlett Packard
+e0:d5:5e:38:83:dc - GIGA-BYTE TECHNOLOGY CO.,LTD.
+f4:4d:30:51:b4:d4 - Elitegroup Computer Systems Co.,Ltd.
+d4:3d:7e:f3:81:9d - Micro-Star Int'l Co, Ltd
+08:60:6e:6d:4b:a5 - ASUSTek COMPUTER INC.
+00:25:22:75:f7:86 - ASRock Incorporation
+d4:3d:7e:18:e2:15 - Micro-Star Int'l Co, Ltd
+54:04:a6:eb:18:16 - ASUSTek COMPUTER INC.
+54:7f:54:ce:6d:7c - INGENICO
+b0:0c:d1:23:a1:bf - Hewlett Packard
+00:17:c8:66:45:57 - KYOCERA Display Corporation
+90:2b:34:97:26:e2 - GIGA-BYTE TECHNOLOGY CO.,LTD.
+f4:4d:30:1f:d1:23 - Elitegroup Computer Systems Co.,Ltd.
+d8:cb:8a:c3:c1:1f - Micro-Star INTL CO., LTD.
+70:85:c2:5f:0f:60 - ASRock Incorporation
+fc:3f:db:bd:1c:9e - Hewlett Packard
+00:20:6b:a2:29:df - KONICA MINOLTA HOLDINGS, INC.
+dc:4a:3e:b5:1a:2d - Hewlett Packard
+98:4b:e1:3f:42:e5 - Hewlett Packard
+a0:d3:c1:e8:79:3c - Hewlett Packard
+00:13:d4:f3:57:76 - ASUSTek COMPUTER INC.
+d4:3d:7e:f3:81:d6 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:81:d5 - Micro-Star Int'l Co, Ltd
+00:13:d4:f3:3b:f2 - ASUSTek COMPUTER INC.
+d4:3d:7e:f3:7a:b3 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:81:09 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:81:f8 - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:81:9c - Micro-Star Int'l Co, Ltd
+d4:3d:7e:f3:7a:6e - Micro-Star Int'l Co, Ltd
+74:d4:35:1c:47:3b - GIGA-BYTE TECHNOLOGY CO.,LTD.
+f4:39:09:bd:c4:69 - Hewlett Packard
+00:25:36:61:b8:6f - Oki Electric Industry Co., Ltd.
+00:25:36:2e:37:33 - Oki Electric Industry Co., Ltd.
+9c:b6:54:19:16:a2 - Hewlett Packard
+9c:b6:54:14:25:e1 - Hewlett Packard
+f4:39:09:b9:9f:9b - Hewlett Packard
+d8:cb:8a:e1:13:53 - Micro-Star INTL CO., LTD.
+90:2b:34:33:ec:33 - GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:25:22:f6:56:48 - ASRock Incorporation
+e8:d8:d1:7b:9b:54 - HP Inc.
+38:63:bb:06:1a:9c - Hewlett Packard
+d8:cb:8a:c3:c4:3a - Micro-Star INTL CO., LTD.
+30:cd:a7:62:92:2d - Samsung Electronics Co.,Ltd
+00:17:c8:02:3d:f7 - KYOCERA Display Corporation
+d8:cb:8a:c3:c0:74 - Micro-Star INTL CO., LTD.
+d8:cb:8a:c3:c0:e6 - Micro-Star INTL CO., LTD.
+d8:cb:8a:c3:c0:f7 - Micro-Star INTL CO., LTD.
+0c:9d:92:0e:ec:79 - ASUSTek COMPUTER INC.
+0c:9d:92:0e:ec:9d - ASUSTek COMPUTER INC.
+d8:cb:8a:c3:c0:da - Micro-Star INTL CO., LTD.
+00:25:22:f6:56:3d - ASRock Incorporation
+90:2b:34:33:fe:c0 - GIGA-BYTE TECHNOLOGY CO.,LTD.
+f4:39:09:ba:32:d0 - Hewlett Packard
+dc:4a:3e:b5:1a:23 - Hewlett Packard
+00:07:4d:96:03:30 - Zebra Technologies Corp.
+90:2b:34:1e:71:ff - GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:25:22:f6:56:45 - ASRock Incorporation
+00:1d:7e:ec:63:96 - Cisco-Linksys, LLC
+70:85:c2:47:38:a2 - ASRock Incorporation
+d0:50:99:74:d7:ca - ASRock Incorporation
+4c:cc:6a:fd:67:ca - Micro-Star INTL CO., LTD.
+40:8d:5c:c8:2d:b1 - GIGA-BYTE TECHNOLOGY CO.,LTD.
+90:1b:0e:fe:b7:e0 - Fujitsu Technology Solutions GmbH
+00:11:32:42:43:d6 - Synology Incorporated
+74:86:7a:34:5e:cc - Dell Inc.
+d4:81:d7:d2:68:a0 - Dell Inc.
+64:d1:54:8f:13:1e - Routerboard.com
+40:b0:34:21:cc:e8 - Hewlett Packard
+00:0c:e6:0b:3e:b1 - Fortinet Inc.
+00:8c:fa:72:48:06 - INVENTEC CORPORATION
+00:17:c8:4d:07:ea - KYOCERA Display Corporation
+6c:3b:e5:35:90:09 - Hewlett Packard
+74:46:a0:4c:aa:2c - Hewlett Packard
+d8:cb:8a:e1:13:d6 - Micro-Star INTL CO., LTD.
+d8:cb:8a:c3:c1:4f - Micro-Star INTL CO., LTD.
+d0:50:99:13:27:9d - ASRock Incorporation
+bc:5f:f4:cf:35:e9 - ASRock Incorporation
+d4:3d:7e:f3:7a:c9 - Micro-Star Int'l Co, Ltd
+d0:50:99:30:d9:fb - ASRock Incorporation
+d8:cb:8a:e1:13:57 - Micro-Star INTL CO., LTD.
+70:85:c2:47:37:39 - ASRock Incorporation
+d8:cb:8a:c3:c0:b3 - Micro-Star INTL CO., LTD.
+70:85:c2:27:74:77 - ASRock Incorporation
+0c:9d:92:0e:ec:96 - ASUSTek COMPUTER INC.
+00:14:38:9b:d3:f2 - Hewlett Packard Enterprise
+b0:0c:d1:23:a1:bd - Hewlett Packard
+00:25:36:01:a0:17 - Oki Electric Industry Co., Ltd.
+3c:4a:92:b3:1e:ec - Hewlett Packard
+00:17:c8:61:d7:76 - KYOCERA Display Corporation
+00:17:08:8b:27:c0 - Hewlett Packard
+00:24:1d:8d:da:6f - GIGA-BYTE TECHNOLOGY CO.,LTD.
+00:24:1d:8f:67:2c - GIGA-BYTE TECHNOLOGY CO.,LTD.
+d0:50:99:53:25:be - ASRock Incorporation
+d0:50:99:53:25:c6 - ASRock Incorporation
+00:c0:ee:3a:69:09 - KYOCERA Display Corporation
+68:f7:28:53:83:a3 - LCFC(HeFei) Electronics Technology co., ltd
+4c:5e:0c:35:f7:51 - Routerboard.com
+d0:81:7a:ca:39:30 - Apple, Inc.
+38:63:bb:06:32:15 - Hewlett Packard
+74:da:38:8a:1f:3f - Edimax Technology Co. Ltd.
+74:da:38:8a:1f:3c - Edimax Technology Co. Ltd.
+74:da:38:8a:23:0b - Edimax Technology Co. Ltd.
+74:da:38:8a:23:ec - Edimax Technology Co. Ltd.
+74:da:38:8a:22:96 - Edimax Technology Co. Ltd.
+74:da:38:8a:24:13 - Edimax Technology Co. Ltd.
+68:14:01:06:72:e7 - Hon Hai Precision Ind. Co.,Ltd.
+70:85:c2:3b:f4:18 - ASRock Incorporation
+70:4f:57:a9:e9:ff - TP-LINK TECHNOLOGIES CO.,LTD.
+f8:a2:d6:b2:b1:1b - Liteon Technology Corporation
+50:d4:f7:1e:3c:69 - TP-LINK TECHNOLOGIES CO.,LTD.
+18:a6:f7:fc:63:5b - TP-LINK TECHNOLOGIES CO.,LTD.
+f4:8e:38:f2:de:3f - Dell Inc.
+b0:0c:d1:7e:34:2b - Hewlett Packard
+68:ff:7b:ce:01:a1 - TP-LINK TECHNOLOGIES CO.,LTD.
+c8:3d:d4:75:fc:9f - CyberTAN Technology Inc.
+74:da:88:72:81:eb - TP-LINK TECHNOLOGIES CO.,LTD.
+50:d4:f7:89:4d:86 - TP-LINK TECHNOLOGIES CO.,LTD.
+98:da:c4:2b:f2:a9 - TP-LINK TECHNOLOGIES CO.,LTD.
+7c:8b:ca:76:22:1b - TP-LINK TECHNOLOGIES CO.,LTD.
+60:a4:4c:ea:d7:a9 - ASUSTek COMPUTER INC.
+fc:77:74:89:dd:ac - Intel Corporate
+8c:85:90:f0:6b:28 - Apple, Inc.
+00:21:70:d3:2b:ef - Dell Inc.
+98:e7:43:08:cb:40 - Dell Inc.
+a0:f3:c1:96:95:69 - TP-LINK TECHNOLOGIES CO.,LTD.
+04:8d:39:30:53:60 - {"errors":{"detail":"Not Found"}}
+ac:84:c6:eb:dd:7f - TP-LINK TECHNOLOGIES CO.,LTD.
+ec:3e:f7:a7:3a:20 - Juniper Networks
+c0:4a:00:b4:b4:fb - TP-LINK TECHNOLOGIES CO.,LTD.
+70:4f:57:a2:64:0f - TP-LINK TECHNOLOGIES CO.,LTD.
+f0:76:1c:c8:b1:e2 - COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+c4:65:16:94:0f:44 - Hewlett Packard
+c4:71:54:3f:c9:63 - TP-LINK TECHNOLOGIES CO.,LTD.
+04:d9:f5:57:d2:60 - ASUSTek COMPUTER INC.
+98:da:c4:7a:82:95 - TP-LINK TECHNOLOGIES CO.,LTD.
+50:d4:f7:2f:be:ef - TP-LINK TECHNOLOGIES CO.,LTD.
+54:b8:0a:11:06:af - D-Link International
+98:da:c4:2b:e7:c1 - TP-LINK TECHNOLOGIES CO.,LTD.
+b0:be:76:7e:9f:cd - TP-LINK TECHNOLOGIES CO.,LTD.
+ac:22:0b:b9:75:65 - ASUSTek COMPUTER INC.
+b0:48:7a:fe:1d:4b - TP-LINK TECHNOLOGIES CO.,LTD.
+f0:92:1c:55:ff:42 - Hewlett Packard
+50:d4:f7:1e:02:5b - TP-LINK TECHNOLOGIES CO.,LTD.
+00:12:2a:a5:fd:20 - VTech Telecommunications Ltd.
+4c:ed:fb:8d:2b:68 - ASUSTek COMPUTER INC.
+70:4f:57:28:1e:77 - TP-LINK TECHNOLOGIES CO.,LTD.
+60:d8:19:3c:9b:66 - Hon Hai Precision Ind. Co.,Ltd.
+c4:71:54:10:47:3d - TP-LINK TECHNOLOGIES CO.,LTD.
+a4:5d:36:5c:49:4e - Hewlett Packard
+98:da:c4:2b:db:4b - TP-LINK TECHNOLOGIES CO.,LTD.
+3c:52:82:0e:d8:21 - Hewlett Packard
+7c:05:07:5b:42:87 - PEGATRON CORPORATION
+70:4f:57:28:1e:ae - TP-LINK TECHNOLOGIES CO.,LTD.
+b0:10:41:06:ae:21 - Hon Hai Precision Ind. Co.,Ltd.
+d8:0d:17:ee:a1:66 - TP-LINK TECHNOLOGIES CO.,LTD.
+20:1a:06:71:6a:6f - COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+50:d4:f7:dc:9d:7f - TP-LINK TECHNOLOGIES CO.,LTD.
+b0:a8:6e:81:30:01 - Juniper Networks
+bc:ee:7b:68:78:a5 - ASUSTek COMPUTER INC.
+c0:4a:00:db:69:cb - TP-LINK TECHNOLOGIES CO.,LTD.
+50:d4:f7:2f:24:19 - TP-LINK TECHNOLOGIES CO.,LTD.
+4c:ed:fb:1a:e9:38 - ASUSTek COMPUTER INC.
+54:ab:3a:0f:36:ee - Quanta Computer Inc.
+98:de:d0:ee:4f:c3 - TP-LINK TECHNOLOGIES CO.,LTD.
+3c:07:71:67:57:36 - Sony Corporation
+ec:3e:f7:a7:3a:20 - Juniper Networks
+d4:6e:0e:7e:8f:27 - TP-LINK TECHNOLOGIES CO.,LTD.
+04:95:e6:96:f9:d0 - Tenda Technology Co.,Ltd.Dongguan branch
+68:ff:7b:ce:01:8d - TP-LINK TECHNOLOGIES CO.,LTD.
+00:25:22:f2:11:ca - ASRock Incorporation
+c4:54:44:fd:87:22 - Quanta Computer Inc.
+
+2. SUMMARY 
+
+ProCurve Networking by HP: 2
+Cisco Systems, Inc: 2
+Juniper Networks: 60
+Routerboard.com: 7
+Eaton Corporation: 1
+AMERICAN POWER CONVERSION CORP: 3
+VMware, Inc.: 195
+Armorlink Co .Ltd: 6
+IBM Corp: 15
+CELESTICA INC.: 6
+Super Micro Computer, Inc.: 1
+IBM: 13
+Brocade Communications Systems LLC: 2
+QNAP Systems, Inc.: 4
+Wistron Infocomm (Zhongshan) Corporation: 4
+INVENTEC CORPORATION: 11
+Emulex Corporation: 18
+ASUSTek COMPUTER INC.: 27
+AKCP: 1
+LANBit Computer, Inc.: 3
+Paradox Security Systems Ltd: 1
+HIVION Co., Ltd.: 11
+IONIX INC.: 7
+Palo Alto Networks: 3
+Novus Security Sp. z o.o.: 1
+TP-LINK TECHNOLOGIES CO.,LTD.: 39
+REALTEK SEMICONDUCTOR CORP.: 2
+Intel Corporate: 7
+DigiBoard: 1
+NETGEAR: 1
+GIGA-BYTE TECHNOLOGY CO.,LTD.: 19
+{"errors":{"detail":"Not Found"}}: 5
+Google, Inc.: 1
+Micro-Star Int'l Co, Ltd: 25
+Toshiba: 2
+Xiaomi Communications Co Ltd: 1
+Hewlett Packard: 56
+LANNER ELECTRONICS, INC.: 6
+KONICA MINOLTA HOLDINGS, INC.: 8
+Micro-Star INTL CO., LTD.: 31
+Oki Electric Industry Co., Ltd.: 9
+OKI ELECTRIC INDUSTRY CO., LTD: 3
+Samsung Electronics Co.,Ltd: 4
+Elitegroup Computer Systems Co.,Ltd.: 13
+KYOCERA Display Corporation: 14
+ASRock Incorporation: 54
+AzureWave Technology Inc.: 1
+HUAWEI TECHNOLOGIES CO.,LTD: 2
+Brother industries, LTD.: 1
+LEXMARK INTERNATIONAL, INC.: 3
+CANON INC.: 3
+PEGATRON CORPORATION: 2
+Liteon Technology Corporation: 3
+Dell Inc.: 12
+Wistron InfoComm(Kunshan)Co.,Ltd.: 1
+LCFC(HeFei) Electronics Technology co., ltd: 2
+TOKYO ELECTRIC CO.,LTD: 1
+G-PRO COMPUTER: 2
+LG ELECTRONICS INC: 1
+RICOH COMPANY,LTD.: 1
+Panasonic Communications Co., Ltd.: 2
+Seiko Epson Corporation: 2
+Xerox Corporation: 3
+SAMSUNG ELECTRO-MECHANICS(THAILAND): 1
+RICOH COMPANY, LTD.: 1
+Synology Incorporated: 2
+Samsung Electronics: 2
+Zebra Technologies Corp.: 3
+VTech Telecommunications Ltd.: 2
+Brother Industries, LTD.: 1
+Hewlett Packard Enterprise: 2
+INGENICO: 1
+HP Inc.: 1
+Cisco-Linksys, LLC: 1
+Fujitsu Technology Solutions GmbH: 1
+Fortinet Inc.: 1
+Apple, Inc.: 2
+Edimax Technology Co. Ltd.: 6
+Hon Hai Precision Ind. Co.,Ltd.: 3
+CyberTAN Technology Inc.: 1
+COMPAL INFORMATION (KUNSHAN) CO., LTD. : 2
+D-Link International: 1
+Quanta Computer Inc.: 2
+Sony Corporation: 1
+Tenda Technology Co.,Ltd.Dongguan branch: 1
